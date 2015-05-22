@@ -1,0 +1,25 @@
+{
+  "options":[
+    {
+      "text" : "Option One",
+      "value": 1
+    },
+    {
+      "text": "Option Two",
+      "value": 2
+    },
+    {
+      "text": "Option Three",
+      "value": 3
+    },
+    {
+      "text": "Option Four",
+      "value": 4
+    },
+    {
+      "text": "Option Five",
+      "value": 5
+    }
+  ]
+}
+
